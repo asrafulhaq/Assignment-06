@@ -1,0 +1,42 @@
+const devs = [
+  {
+    id: 1,
+    name: "Asraf",
+    age: 10,
+    skill: "IOS Devs",
+    location: "Mirpur",
+    income: 10000,
+  },
+  {
+    id: 2,
+    name: "Mahdi",
+    age: 30,
+    skill: "BlockChain Devs",
+    location: "Mirpur",
+    income: 20000,
+  },
+  {
+    id: 3,
+    name: "Maruf",
+    age: 40,
+    skill: "IOS Devs",
+    location: "Mirpur",
+    income: 70000,
+  },
+  {
+    id: 4,
+    name: "Jamal",
+    age: 10,
+    skill: "WP Devs",
+    location: "Uttara",
+    income: 100000,
+  },
+  {
+    id: 5,
+    name: "Kamal",
+    age: 90,
+    skill: "WP Devs",
+    location: "Uttara",
+    income: 60000,
+  },
+];
